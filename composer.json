@@ -20,7 +20,7 @@
         "bower-asset/underscore": "1.8.3",
         "bower-asset/backbone": "1.2.*",
         "bower-asset/js-cookie": "2.1.*",
-        "bower-asset/pnotify": "2.0.*",
+        "bower-asset/pnotify": "2.0.*"
     },
     "require-dev": {
         "yiisoft/yii2-codeception": "*",
